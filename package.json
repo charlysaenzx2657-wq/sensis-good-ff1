@@ -1,0 +1,12 @@
+{
+  "name": "sensis-good-ff",
+  "version": "3.2.0",
+  "scripts": { "build": "echo ok" },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.0.0"
+  }
+}

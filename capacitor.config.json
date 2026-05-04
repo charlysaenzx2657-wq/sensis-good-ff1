@@ -1,0 +1,14 @@
+{
+  "appId": "com.sensis.goodff",
+  "appName": "SENSIS GOOD FF",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  },
+  "server": {
+    "androidScheme": "https",
+    "hostname": "sensis-good-ff.web.app"
+  }
+}
